@@ -1,0 +1,52 @@
+---
+title: "Project 3 Info"
+output:
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+```
+
+
+## Project Overview
+
+For project 3, choose a dataset with a hierarchical structure and analyze this using a hierarchical regression methods. The project will include a written report and a class presentation.
+
+The report should contain sections such as introduction, data overview + data visualization, statistical modeling procedures, and results and discussion. The following is a rubric that will be used to assess the report. 
+
+Your presentation should be approximately 5 - 8 minutes and mimic the structure of the report with an introduction that frames the research question followed by exploration of the data, an overview of the modeling approach, and a conclusion.
+
+All items are graded with the following scheme, where some have multipliers:
+
+1. __No Credit__: Criterion was not addressed or was written in a way that was not understandable.
+
+2. __Beginning__:  Ideas are not clear and supporting ideas are not presented.
+
+3. __Developing__: Ideas are identified but not well supported and developed or are minimally supported and developed.
+
+4. __Advanced__: Ideas are clearly identified and are adequately supported and developed.
+
+| __Report generalities__ | __Points__  |
+|:------------------------|---:|
+|Spelling, grammar, writing clarity, paragraphs, section labels, citations, acknowledgements | /8  |
+|Appendix with complete code |  /4 |
+| __Introduction__ | __Points__  |
+|Project motivation |  /4 |
+|Research question | /4  | 
+| __Data Overview + Data Visualization__ | __Points__  | 
+|Describe variables including with units |  /4 |
+|Titles, Labels, and Captions for Figures | /4  |
+|Figure Clarity (should highlight hierarchical structure) | /4  |
+|Figure Quality (should highlight hierarchical structure) | /4  |
+| __Statistical Modeling Procedure__ | __Points__  |
+|Define models to fit (with complete notation) | /4  |
+|Discussion of how hierarchical model differs from non-hierarchical model | /4  |
+| __Results and Discussion__ | __Points__  |
+|Statement and assessment of model assumptions| /4 |
+|Comparison of models and defense of model choice| /4 |
+|Discuss Results in the context of the research question |  /4 |
+|Scope of Inference: how can the results be generalized? | /4  |
+| __Class Presentation__ | __Points__  |
+|Appropriate use of time: 5 - 8 minutes | /4  |
+|Presentation Quality | /8  |
+|Presentation Clarity | /8  |
